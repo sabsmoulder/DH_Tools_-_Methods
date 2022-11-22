@@ -53,4 +53,4 @@ Goswami, M. (2018). Social Media and Hashtag Activism. Retrieved from https://ww
 Kongkirati, P., & Kanchoochat, V. (2018). The prayuth regime: Embedded military and hierarchical capitalism in thailand. TRaNS: Trans -Regional and -National Studies of Southeast Asia, 6(2), 279. https://www.academia.edu/40192514/The_Prayuth_Regime_Embedded_Military_and_Hierarchical_Capitalism_in_Thailand
 
 What is APEC? (n.d.). APEC. Retrieved 18 November 2022, from https://www.apec2022.go.th/what-is-apec/
-# DH_Tools_Methods
+
